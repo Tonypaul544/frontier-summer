@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 export default function Celebrities(){
   const names = ['Don Jazzy','Bad Boy Timz','Korede Bello','Cross Okonkwo','Blaqbonez','Cheque','Nasty Black','Liya'];
   return (

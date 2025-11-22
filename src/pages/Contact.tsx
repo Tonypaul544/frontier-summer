@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 // import ContactForm from '../sections/ContactForm';
 
 export default function Contact(){
