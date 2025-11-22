@@ -1,4 +1,3 @@
-// import React from 'react';
 export default function EventStructure(){
   return (
     <section id='structure' className='bg-gray-50 py-16'>

@@ -1,4 +1,3 @@
-// import React from 'react';
 export default function Stats(){
   const stats = [
     {label:'Event Attendance', value:'1,673'},

@@ -1,4 +1,3 @@
-// import React from 'react';
 export default function Team(){
   const members = ['Momoh Kingsley','Juliet Godwin','Someh Crypto','Olalere Joshua'];
   return (

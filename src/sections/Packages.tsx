@@ -1,4 +1,3 @@
-// import React from 'react';
 // import SponsorForm from './SponsorForm';
 const tiers = [
   { name: 'Platinum', price: '$3,500', perks: ['30x30 booth', '3 passes', 'Full page ad', '10 min speak'] },
